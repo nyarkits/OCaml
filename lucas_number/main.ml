@@ -1,5 +1,6 @@
 (* lucas_number/main.ml *)
-(* author: RockwallNest *)
+(* Author: RockwallNest *)
+(* Creation Time: Sunday, /14/01/2021 JST *)
 (* 
   ~~ Dynamic Programming: dp ~~
   Bottom-up method: Recurrence formula loop  
