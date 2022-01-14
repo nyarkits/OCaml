@@ -1,4 +1,5 @@
 (* lucas_number/main.ml *)
+(* author: RockwallNest *)
 (* 
   ~~ Dynamic Programming: dp ~~
   Bottom-up method: Recurrence formula loop  
