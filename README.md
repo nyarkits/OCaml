@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@3.0.1/github-markdown.min.css">
 
+<article class="markdown-body">
 # OCaml
 <h1> My OCaml codes for the programming contest </h1>
 
@@ -17,3 +18,4 @@
 <p> $ omake </p>
 <h3 class="omake"> Execute it </h3>
 <p> $ ./main.exe </p>
+</article>
