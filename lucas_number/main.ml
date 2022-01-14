@@ -1,3 +1,9 @@
+(* lucas_number/main.ml *)
+(* 
+  ~~ Dynamic Programming ~~
+  Bottom-up method: Recurrence formula loop  
+*)
+
 let () =
   let main () =
     let n = read_int () in
