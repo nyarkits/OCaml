@@ -2,16 +2,16 @@
 My OCaml codes for the programming contest 
 
 ### Opam installations 
-Opam is OCaml package manager tool.
-For Mac 
-$ brew install opam 
-$ opam install omake 
-$ eval $(opam env)
+<p> Opam is OCaml package manager tool. </p>
+<p> For Mac </p>
+<p> $ brew install opam </p>
+<p> $ opam install omake </p>
+<p> $ eval $(opam env) </p>
 
 ### OMake installation and build 
-For Mac
-$ omake --install 
-Make OCaml .exe file  
-$ omake
-Execute it 
-$ ./main.exe
+<p> For Mac </p>
+<p> $ omake --install </p>
+<p> Make OCaml .exe file </p>
+<p> $ omake </p>
+<p> Execute it </p>
+<p> $ ./main.exe </p>
