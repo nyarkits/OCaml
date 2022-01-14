@@ -1,31 +1,4 @@
-<style>
-h1,
-h2,
-h3,
-h4 {
-    margin: .1rem 0;
-}
-
-h1 {
-    font-size: 2rem;
-}
-
-h2 {
-    font-size: 1.5rem;
-    padding-left: 20px;
-}
-
-h3 {
-    font-size: 1.2rem;
-    padding-left: 40px;
-}
-
-h4 {
-    font-size: 1rem;
-    font-style: italic;
-    padding-left: 60px;
-}
-</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@3.0.1/github-markdown.min.css">
 
 # OCaml
 <h1> My OCaml codes for the programming contest </h1>
