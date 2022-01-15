@@ -17,5 +17,5 @@
 <h4 class="omake"> Make OCaml .exe file </h4>
 <p> $ omake </p>
 <h4 class="omake"> Execute it </h4>
-<p> $ ./main.exe </p>
+<p> $ ./main </p>
 </article>
