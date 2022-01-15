@@ -184,7 +184,7 @@ OCamlGeneratedFiles(main.ml)
 #
 
 FILES[] =
-   main.exe
+     main
 #    file2
 #
 PROGRAM = main
