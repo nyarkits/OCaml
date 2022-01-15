@@ -17,12 +17,16 @@ let () =
     let result =
     (* Create Recursive function: `loop j () dp` *)
       let rec loop j () dp =
-      (* Becase of `j` is up to `n` in Recursive function `loop` , if-clause is set in `j = (n+1)` *)
+      (* 
+         Becase of `j` is up to `n` in Recursive function `loop` , if-clause is set in `j = (n+1)`
+         ~~~ Basecase Step ~~~
+       *)
         if j = (n+1) then dp.(n)
         else 
         (* 
           It is necessary for the Recursive function `loop` to assign its argument to {the `Unit-type` value: `()`}
           if you substitute new value for dp-Array's value recursively. 
+          ~~~ Rcurrence case Step ~~~~
         *) 
           loop (j+1) (dp.(j) <- (dp.(j-1) + dp.(j-2))) dp
           (* Calculate {third dp-Array's value: dp.(2) = 3} wtih {initial dp-Array's value: 2 and 1} *)
