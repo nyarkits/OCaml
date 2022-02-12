@@ -8,6 +8,7 @@
 <h4 class="opam"> Opam is OCaml package manager tool. </h4>
 <h4 class="opam"> For Mac </h4>
 <p> $ brew install opam </p>
+<p> $ opam install dune </p>
 <p> $ opam install omake </p>
 <p> $ eval $(opam env) </p>
 
