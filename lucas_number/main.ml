@@ -1,5 +1,5 @@
 (* lucas_number/main.ml *)
-(* Author: RockwallNest *)
+(* Author: nyarkits *)
 (* Creation Time: Sunday, /14/01/2021 JST *)
 (* 
   ~~ Dynamic Programming: dp ~~
